@@ -1,0 +1,17 @@
+p {
+	text-align: center;
+	background-color: #ffffff;
+	border:3px dotted green;
+}
+
+div {
+	border-color: rgb(180,95,151);
+	border-style: solid;
+	border-width: 20px 10px 20px 10px;
+	background-color: rgb(250,202,157);
+	padding:40px 20px 70px 100px;
+	margin:120px 60px 30.5px 60px;
+}
+
+
+
